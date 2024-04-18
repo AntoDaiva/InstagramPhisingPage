@@ -1,0 +1,14 @@
+{
+  "name": "instagram",
+  "version": "1.0.0",
+  "description": "<a href=\"https://edlavio.github.io/Instagram/\" align=\"center\"> <h3>Preview 👀</h3> </a> <a href=\"https://edlavio.github.io/Instagram/\">   <img src=\"https://user-images.githubusercontent.com/79201879/178122135-d0c92812-7743-4040-8681-190ccbdacdf4.png\" alt=\"Instagram\"> </a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
